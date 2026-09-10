@@ -24,21 +24,6 @@ Before moving into AI engineering, I spent **3+ years as a Data Analyst / Data E
 
 ---
 
-### 🛠️ What I'm Building
-
-| Project | What it is | Stack |
-|---|---|---|
-| **Scopewatch** | Local-first CLI trust layer that detects capability and scope drift in MCP servers and AI agent tools | Python · MCP · CLI |
-| **Transaction Dispute & Fraud Triage Copilot** | Multi-agent dispute-handling system with a custom MCP server, engineered context, tiered cross-session memory, and an agentic RAG tool | LangGraph · MCP · Gemini · Vector search |
-| **Retail Banking Product & Policy Advisor** | RAG-based assistant that answers product and policy questions over banking documents with grounded citations | Python · LangChain · Embeddings · Vector DB |
-| **Healthcare Fraud Detection** | ML pipeline for flagging anomalous claims and provider behavior | Python · Scikit-learn · PySpark |
-| **NL-to-SQL Engine** | Natural language interface that generates and validates SQL against warehouse schemas | Python · LLMs · Snowflake |
-| **Merchant Intelligence Platform** | Analytics platform surfacing merchant performance, segmentation, and risk signals | Python · SQL · Power BI |
-
-> Pinned repositories below have the details. Some capstone work is delivered on client infrastructure and is summarized here rather than fully open-sourced.
-
----
-
 ### ⚙️ Tech Stack
 
 **AI / Agentic Systems**
