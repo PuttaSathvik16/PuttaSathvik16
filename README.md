@@ -103,7 +103,7 @@ Before moving into AI engineering, I spent **3+ years as a Data Analyst / Data E
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PuttaSathvik16&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="90%"/>
+  <img src="https://ghchart.rshah.org/7aa2f7/PuttaSathvik16" alt="Contribution Calendar" width="90%"/>
 </p>
 
 <p align="center">
