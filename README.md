@@ -72,15 +72,6 @@ Before moving into AI engineering, I spent **3+ years as a Data Analyst / Data E
 
 ---
 
-### 📜 Certifications
-
-- **Databricks Certified** · Generative AI Engineer Associate
-- **Databricks Certified** · Data Engineer Associate
-- **Databricks Certified** · Data Analyst Associate (SQL Analytics)
-- **Microsoft Certified** · Power BI Data Analyst Associate (PL-300)
-
----
-
 ### 📊 GitHub Activity
 
 <p align="center">
