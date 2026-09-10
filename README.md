@@ -19,7 +19,7 @@ Before moving into AI engineering, I spent **3+ years as a Data Analyst / Data E
 
 - 🎓 M.S. in Computer Science & Information Technology, Sacred Heart University (GPA 3.92)
 - 🏢 AI/ML Engineer @ Virtusa · UnitedHealth Group account · Hartford, CT
-- 🚀 Co-founder of **GenValue Academy**, an AI tools education and services brand
+- 🚀 Founder of **GenValue**, an AI tools education and services brand
 - 🔭 Currently deep in **LangGraph, MCP (Model Context Protocol), agent memory architectures, and agentic RAG**
 
 ---
